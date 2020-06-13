@@ -1,6 +1,6 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-
+using Hello;
 namespace HelloTest
 {
     [TestClass]
@@ -9,6 +9,7 @@ namespace HelloTest
         [TestMethod]
         public void TestMethod1()
         {
+            Assert.AreEqual("Hello World", Program.createMessage());
         }
     }
 }

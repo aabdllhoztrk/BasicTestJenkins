@@ -1,0 +1,6 @@
+D:\VsProject\Hello\Hello\bin\Debug\Hello.exe.config
+D:\VsProject\Hello\Hello\bin\Debug\Hello.exe
+D:\VsProject\Hello\Hello\bin\Debug\Hello.pdb
+D:\VsProject\Hello\Hello\obj\Debug\Hello.csproj.CoreCompileInputs.cache
+D:\VsProject\Hello\Hello\obj\Debug\Hello.exe
+D:\VsProject\Hello\Hello\obj\Debug\Hello.pdb
